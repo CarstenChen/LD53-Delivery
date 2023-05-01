@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98054a99caf0494479083a89315bdeed, type: 3}
+  m_Name: Dialogues
+  m_EditorClassIdentifier: 
+  dialogues:
+  - plotID: 0
+    index: 0
+    nextIndex: -1
+    text: Delivery! Enjoy!
+    audio: {fileID: 8300000, guid: 915f7b03d1123654b9c34546e1740516, type: 3}
